@@ -28,4 +28,13 @@ This project is licensed under the [MIT License](LICENSE).
 If you find this work useful, please consider citing our paper:
 
 ```plaintext
-Not Yet released
+@misc{gautam2024realtimescreamdetectionposition,
+      title={Real-Time Scream Detection and Position Estimation for Worker Safety in Construction Sites}, 
+      author={Bikalpa Gautam and Anmol Guragain and Sarthak Giri},
+      year={2024},
+      eprint={2411.03016},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2411.03016}, 
+}
+```
