@@ -1,8 +1,9 @@
-# Real-Time Scream Detection and Position Estimation for Worker Safety in Construction Sites (Low Resource Settings)
+# Real-Time Scream Detection and Position Estimation for Worker Safety in Construction Sites.
 
-![arXiv](https://img.shields.io/badge/arXiv-1111.0000-b31b1b.svg)
+[![arXiv](https://img.shields.io/badge/arXiv-2411.03016-b31b1b.svg)](https://arxiv.org/pdf/2411.03016)  
+[![QRxiv](https://img.shields.io/badge/QRxiv-Real--Time%20Scream%20Detection-blue)](https://arxiv.org/pdf/2411.03016)
 
-This repository hosts the code for the project titled **"Real-Time Scream Detection and Position Estimation for Worker Safety in Construction Sites in Low Resource Settings"**. The goal is to develop a system that leverages deep learning to detect screams and estimate positions for enhanced safety monitoring on construction sites, particularly in environments with limited resources.
+This repository hosts the code for the project titled **"Real-Time Scream Detection and Position Estimation for Worker Safety in Construction Sites"**. The goal is to develop a system that leverages deep learning to detect screams and estimate positions for enhanced safety monitoring on construction sites, particularly in environments with limited resources.
 
 ## About the Project
 
